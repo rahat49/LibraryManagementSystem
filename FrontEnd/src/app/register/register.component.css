@@ -1,0 +1,39 @@
+:host{
+
+    display: block;
+    padding: 2rem;
+    width: 700px;
+    border-radius: 1rem;
+    margin: 3rem auto 0;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+h1{
+    text-align: center;
+    font-size: 2rem;
+    color: light-accent-A200;
+}
+h2{
+    text-align: center;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+}
+mat-grid-list{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    
+.create-account-btn{
+    background:rgb(101, 101, 230);
+    width: 30%;
+    height: 40%;
+    font-size: 1.2rem;
+ }
+}
+
+mat-form-field{
+    width: 66.67%;
+    transform:scale(1.5);
+}
+.success{
+    color: green;
+}

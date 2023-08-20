@@ -1,0 +1,18 @@
+:host{
+    display: block;
+    width: 80%;
+    margin: 3rem auto 0;
+    outline: 0px solid white;
+}
+table{
+    width: 100%;
+}
+.action-group{
+    display: grid;
+    gap:1rem;
+    grid-template-columns: 1fr 1fr;
+}
+.mat-mdc-header-cell{
+    font-size: 1.2rem;
+    font-style: italic;
+}
